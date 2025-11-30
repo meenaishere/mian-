@@ -10,7 +10,7 @@
 - Press the below button to Fast deploy on Heroku</b>
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Piyushmeena11/Repo1.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meenaishere/mian-.git)
 - <b>Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.</b></details>
 
 <details><summary><b>Deploy To Koyeb</b></summary>
